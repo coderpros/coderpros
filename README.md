@@ -1,4 +1,4 @@
-![Hey there, I'm Brandon. I'm a software entrepreneur, & digital nomad. Check out my work](https://github.com/coderpros/coderpros/raw/master/images/intro.gif)
+![Hey there, I'm Brandon. I'm a software entrepreneur, & digital nomad. Check out my work](https://codercorp.blob.core.windows.net/images/intro.gif)
 <!---
 - 👋 Hi, I’m @coderpros
 - 👀 I’m interested in ...
