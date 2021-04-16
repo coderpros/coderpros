@@ -1,6 +1,6 @@
 [![Updated Badge](https://badges.pufler.dev/updated/coderpros/coderpros)](https://coderpro.net)
 [![Years Badge](https://badges.pufler.dev/years/coderpros)](https://coderpro.net)
-[![Visits Badge](https://badges.pufler.dev/visits/coderpros)](https://coderpro.net)
+[![Visits Badge](https://badges.pufler.dev/visits/coderpros/coderpros)](https://coderpro.net)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/coderpros)](https://coderpro.net)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40coderProNet)](https://twitter.com/coderProNet)
