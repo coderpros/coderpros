@@ -1,6 +1,16 @@
+[![Updated Badge](https://badges.pufler.dev/updated/coderpros/git-badges)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/coderpros)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/coderpros/git-badges)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/coderpros)](https://badges.pufler.dev)
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/company/coderpros
+[twitter-shield]: https://img.shields.io/twitter/follow/coderpronet?style=social
+[twitter-follow-url]: https://img.shields.io/twitter/follow/coderpronet?style=social
+[github-shield]: https://img.shields.io/github/followers/coderpros?label=Follow&style=social
+[github-follow-url]: https://img.shields.io/twitter/follow/coderpronet?style=social
+
 ![Hey there, I'm Brandon. I'm a software entrepreneur, & digital nomad. Check out my work](https://codercorp.blob.core.windows.net/images/intro.gif)
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
+
 
 
 <!---
