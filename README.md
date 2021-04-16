@@ -1,3 +1,7 @@
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40coderProNet)](https://twitter.com/coderProNet)
+[![GitHub](https://img.shields.io/github/followers/coderpros?label=Follow&style=social)](https://github.com/coderpros)
+
 [![Updated Badge](https://badges.pufler.dev/updated/coderpros/coderpros)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/coderpros)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/coderpros/coderpros)](https://badges.pufler.dev)
