@@ -1,6 +1,6 @@
-[![Updated Badge](https://badges.pufler.dev/updated/coderpros/git-badges)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/coderpros/coderpros)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/coderpros)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/coderpros/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/coderpros/coderpros)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/coderpros)](https://badges.pufler.dev)
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/company/coderpros
