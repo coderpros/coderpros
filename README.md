@@ -1,4 +1,8 @@
 ![Hey there, I'm Brandon. I'm a software entrepreneur, & digital nomad. Check out my work](https://codercorp.blob.core.windows.net/images/intro.gif)
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
+
+
 <!---
 - 👋 Hi, I’m @coderpros
 - 👀 I’m interested in ...
