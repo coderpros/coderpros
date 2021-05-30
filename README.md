@@ -8,7 +8,7 @@
   Commented out because it is broken
   [![Commits Badge](https://badges.pufler.dev/commits/monthly/coderpros)](https://coderpro.net)
 -->
-![Hey there, I'm Brandon. I'm a software entrepreneur, & digital nomad. Check out my work](https://codercorp.blob.core.windows.net/images/intro.gif)
+![Hey there, I'm Brandon. I'm a software entrepreneur, & digital nomad. Check out my work](http://coderpros.net/intro.gif)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/company/coderpros
