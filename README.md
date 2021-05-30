@@ -1,14 +1,14 @@
 [![Updated Badge](https://badges.pufler.dev/updated/coderpros/coderpros)](https://coderpro.net)
 [![Years Badge](https://badges.pufler.dev/years/coderpros)](https://coderpro.net)
 [![Visits Badge](https://badges.pufler.dev/visits/coderpros/coderpros)](https://coderpro.net)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/coderpros)](https://coderpro.net)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40coderProNet)](https://twitter.com/coderProNet)
 [![GitHub](https://img.shields.io/github/followers/coderpros?label=Follow&style=social)](https://github.com/coderpros)
-<!--  Commented out because it is broken-->
-  [![Commits Badge](https://badges.pufler.dev/commits/monthly/coderpros)](https://coderpro.net)
 
 <img src="http://coderpros.net/intro.gif" alt="" />
-<!--![Hey there, I'm Brandon. I'm a software entrepreneur, & digital nomad. Check out my work](http://coderpros.net/intro.gif)-->
+
+[Hey there, I'm Brandon. I'm a software entrepreneur, & digital nomad. Check out my work](http://coderpros.net/intro.gif)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/company/coderpros
