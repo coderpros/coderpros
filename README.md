@@ -13,7 +13,7 @@
 - 👀 I’m interested in travel & emerging technologies.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on advanced development or architecture projects.
-- 📫 How to reach me @MadCoder312 on Twitter.
+- 📫 How to reach me [@MadCoder312](https://twitter.com/MadCoder312) on Twitter.
 
 <!---
 coderpros/coderpros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
