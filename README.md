@@ -9,7 +9,7 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/company/coderpros
 
-- 👋 Hi, I’m @coderpros.
+- 👋 Hi, I’m @coderpros. I've been developing web & software apps for more than twenty years. I'm predominately focused on the M$FT stack.
 - 👀 I’m interested in travel & emerging technologies.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on advanced development or architecture projects.
